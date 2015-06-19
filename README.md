@@ -11,10 +11,10 @@ The following files in this repo pertain to the assignment:
 
 **run_analysis.R**
 
-This file is a script whose output is a tidy data set for the [Human Activity Recognition Using Smart Phones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+This file is a script which cleans up the data set for the [Human Activity Recognition Using Smart Phones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 Before you run the script, make sure that you have the folder named 'UCI HAR Dataset' in your working directory.  
 
-The tidy data ouput is text file called 'GetData_course_project_tidy_set.txt' that contains a table with 180 observations of 68 variables related to the experiment.  
+The output is a text file called 'GetData_course_project_tidy_set.txt' that contains a table with 180 observations of 68 variables related to the experiment.  
 
 **Codebook.md**
 
