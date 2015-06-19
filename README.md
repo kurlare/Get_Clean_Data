@@ -7,7 +7,7 @@ _June 19, 2015_
 
 ### Files
 ______________________________________________________________________________________________________________________
-The following files in this repo pertain to the assignment.
+The following files in this repo pertain to the assignment:
 
 **run_analysis.R**
 
