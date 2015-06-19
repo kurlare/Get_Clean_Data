@@ -24,3 +24,9 @@ This is a markdown file that elaborates on three things:
 2. What transformations were performed on the raw data to reach a state of tidy data.
 3. A key with further information for each of the 68 variables in the tidy data set.
 
+### Reading into R
+_______________________________________________________________________________________________________________________
+To view the tidy data in R, make sure you have GetData_course_project_tidy_set.txt in your working directory, then run the following code:
+
+    tidy_set <- read.table("GetData_course_project_tidy_set.txt", header = TRUE)
+    View(tidy_set)    
